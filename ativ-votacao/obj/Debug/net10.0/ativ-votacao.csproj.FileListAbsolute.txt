@@ -1,0 +1,15 @@
+C:\#Facul\atp\trabalho01\ativ-votacao\bin\Debug\net10.0\ativ-votacao.exe
+C:\#Facul\atp\trabalho01\ativ-votacao\bin\Debug\net10.0\ativ-votacao.deps.json
+C:\#Facul\atp\trabalho01\ativ-votacao\bin\Debug\net10.0\ativ-votacao.runtimeconfig.json
+C:\#Facul\atp\trabalho01\ativ-votacao\bin\Debug\net10.0\ativ-votacao.dll
+C:\#Facul\atp\trabalho01\ativ-votacao\bin\Debug\net10.0\ativ-votacao.pdb
+C:\#Facul\atp\trabalho01\ativ-votacao\obj\Debug\net10.0\ativ-votacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\#Facul\atp\trabalho01\ativ-votacao\obj\Debug\net10.0\ativ-votacao.AssemblyInfoInputs.cache
+C:\#Facul\atp\trabalho01\ativ-votacao\obj\Debug\net10.0\ativ-votacao.AssemblyInfo.cs
+C:\#Facul\atp\trabalho01\ativ-votacao\obj\Debug\net10.0\ativ-votacao.csproj.CoreCompileInputs.cache
+C:\#Facul\atp\trabalho01\ativ-votacao\obj\Debug\net10.0\ativ-votacao.sourcelink.json
+C:\#Facul\atp\trabalho01\ativ-votacao\obj\Debug\net10.0\ativ-votacao.dll
+C:\#Facul\atp\trabalho01\ativ-votacao\obj\Debug\net10.0\refint\ativ-votacao.dll
+C:\#Facul\atp\trabalho01\ativ-votacao\obj\Debug\net10.0\ativ-votacao.pdb
+C:\#Facul\atp\trabalho01\ativ-votacao\obj\Debug\net10.0\ativ-votacao.genruntimeconfig.cache
+C:\#Facul\atp\trabalho01\ativ-votacao\obj\Debug\net10.0\ref\ativ-votacao.dll

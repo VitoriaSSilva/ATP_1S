@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ativ-votacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b771d25c0660c24a357bab878e7c6d0aeb2a2a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+261c58cc406aa87b6b3479be119973fe51b3b89a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ativ-votacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ativ-votacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
